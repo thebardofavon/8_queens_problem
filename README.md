@@ -1,1 +1,1 @@
-# 8_queens_problem
+# toy_problems
